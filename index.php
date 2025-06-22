@@ -97,7 +97,7 @@ if (isset($_SESSION['idusers'])) {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="./assets/style.css">
-  <link rel="shortcut icon_sign_sign" href="./assets/icon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="./assets/icon.ico" type="image/x-icon">
   <title>Alba-rosa.cz</title>
   <meta name="author" content="Jiří Boucník & Matěj Kořalka">
   <meta name="application-name" content="Alba-rosa.cz">

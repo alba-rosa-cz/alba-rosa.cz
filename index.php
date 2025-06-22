@@ -28,6 +28,7 @@ if (isset($_SESSION['idusers'])) {
   <meta property="og:image:type" content="image/ico">
 </head>
 
+
   <body>
   <amp-auto-ads type="adsense"
         data-ad-client="ca-pub-8345853981011942">
